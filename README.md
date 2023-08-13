@@ -1,9 +1,10 @@
 [![MasterHead](https://media3.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://showcase-suman.netlify.app/)
 <h1 align="center">Hi 👋, I'm Suman</h1>
 <h3 align="center">A passionate Web developer from India. I love to create Web applications and awesome ui designs.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanpaul1&label=Profile%20views&color=0e75b6&style=flat" alt="sumanpaul1" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/sumanpaul_1" target="blank"><img src="https://img.shields.io/twitter/follow/sumanpaul_1?logo=twitter&style=for-the-badge" alt="sumanpaul_1" /></a> </p>
 
