@@ -1,7 +1,8 @@
-[![MasterHead](https://media3.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://showcase-suman.netlify.app/)
+[![MasterHead](https://cutewallpaper.org/25/animated-video-game-pixel-wallpaper-gif/pixel-art-illustration-by-pixel-jeff-masterpicks-design-inspiration.gif)](https://showcase-suman.netlify.app/)
+
 <h1 align="center">Hi 👋, I'm Suman</h1>
 <h3 align="center">A passionate Web developer from India. I love to create Web applications and awesome ui designs.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanpaul1&label=Profile%20views&color=0e75b6&style=flat" alt="sumanpaul1" /> </p>
 
